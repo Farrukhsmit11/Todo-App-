@@ -10,12 +10,13 @@ body {
 }
 
 .app-container {
-    width: 300px;
-    padding: 20px;
+    width: 306px;
+    padding: 35px;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     text-align: center;
+    height: 169px;
 }
 
 h1 {
